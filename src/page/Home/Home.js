@@ -7,7 +7,7 @@ import Carousel from "../../component/Carousel/Carousel";
 import Work from "../../component/Work/Work";
 
 const Home = () => {
-  document.title = "Home";
+  document.title = "BeComputer Shop || Home";
   return (
     <div>
       <Slide />
